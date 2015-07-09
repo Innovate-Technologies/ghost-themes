@@ -128,7 +128,7 @@ strong {
 .sidebar {
 	position:absolute;
 	left:-220px;
-	width:190px;
+	width:250px;
 }
 .comments, footer {
 	padding:120px 0;
@@ -152,11 +152,13 @@ strong {
 }
 .brand {
 	border:none;
-	padding:20px 0;
+	padding: 0px 0;
 	line-height:0;
 }
 .shoutcast-logo{
     font-family: 'Diavlo Light';
+    color: #ffffff;
+    font-size:25pt;
 }
 .brand img {
 	width:auto;
@@ -212,6 +214,7 @@ header .share {
 }
 .meta {
 	top:40px;
+	left:-300px;
 	text-transform: capitalize;
 }
 .meta strong {
