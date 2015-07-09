@@ -155,6 +155,9 @@ strong {
 	padding:20px 0;
 	line-height:0;
 }
+.shoutcast-logo{
+    font-family: 'Diavlo Light';
+}
 .brand img {
 	width:auto;
 	height:50px;
