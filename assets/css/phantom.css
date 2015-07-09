@@ -198,7 +198,7 @@ header .share {
 	color:#7f8c8d;
 }
 .meta {
-	top:140px;
+	top:40px;
 	text-transform: capitalize;
 }
 .meta strong {
@@ -371,7 +371,7 @@ footer p {
 	border-bottom:none;
 }
 .sample .container {
-	padding-top:130px;
+	padding-top:30px;
 	padding-bottom:0;
 }
 .excerpt article {
