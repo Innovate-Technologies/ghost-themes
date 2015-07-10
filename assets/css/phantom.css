@@ -346,6 +346,9 @@ article input:focus {
 	font-size: 16px;
 	line-height: 30px;
 }
+author-bio{
+    color:#FFFFFF;
+}
 .author, .comments {
 	-webkit-animation-delay:1.5s;
 	animation-delay:1.5s;
